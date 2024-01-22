@@ -1,0 +1,23 @@
+h1{
+    font-size: 22px;
+    padding-bottom: -18px;
+}
+h{
+    font-size: 12px;
+    padding-bottom: 24px;
+}
+a{
+    text-decoration: none;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+    margin: auto;
+    margin: bottom 20px; ;
+}
+div.profile img{
+    max-width: 180px;
+    border-radius: 50%;
+}
